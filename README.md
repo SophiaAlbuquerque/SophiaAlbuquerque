@@ -1,1 +1,3 @@
-# Sophia de Albuquerque Eleuterio
+### Sophia de Albuquerque Eleuterio
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SophiaAlbuquerque=anuraghazra&show_icons=true&theme=radical)
