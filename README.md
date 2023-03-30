@@ -1,4 +1,8 @@
-### Olá, eu sou a Sophia de Albuquerque Eleuterio
+## Olá, eu sou a Sophia de Albuquerque Eleuterio
+
+Sou formada em Técnico de Desenvolvimento de Sistemas, com conhecimento em front-end. 
+<br>Projeto de TCC elaborado durante um ano, desde pesquisa até execução do protótipo funcional. 
+<br>Busco oportunidade como junior para adquirir experiência na área de desenvolvimento.<br>
 
 <div>
   <a href="#">
@@ -6,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaAlbuquerque&hide_progress=true&theme=midnight-purple"/>
 </div>
 
+### Essas são minhas principais técnologias
 <div style="display: flex"><br>
   <img align="center" justify="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
