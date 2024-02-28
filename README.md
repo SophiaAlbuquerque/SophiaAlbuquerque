@@ -1,6 +1,6 @@
 ## Olá, eu sou a Sophia de Albuquerque Eleuterio
 
-Sou formada em Técnico de Desenvolvimento de Sistemas, com conhecimento em front-end. 
+Sou formada em Técnico de Desenvolvimento de Sistemas, com conhecimento em front-end, linguagens orientada a objeto e banco de dados. 
 <br>Projeto de TCC elaborado durante um ano, desde pesquisa até execução do protótipo funcional. 
 <br>Busco oportunidade como junior para adquirir experiência na área de desenvolvimento.<br>
 
