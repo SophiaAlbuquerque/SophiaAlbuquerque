@@ -1,7 +1,5 @@
 ## Olá, eu sou a Sophia de Albuquerque Eleuterio
 
-<h2 align="center">🚀 Sobre Mim</h2>
-
 <p align="center">
 🎓 <strong>Acadêmica em Sistemas da Informação</strong> (4º semestre), com formação técnica em Desenvolvimento de Sistemas – onde minha jornada na tecnologia começou. <br>
 💻 Atualmente, sou <strong>estagiária Full Stack na Avanade</strong>, aprimorando minhas <strong>hard skills</strong> em desenvolvimento e minhas <strong>soft skills</strong> em colaboração e resolução de problemas. <br>
